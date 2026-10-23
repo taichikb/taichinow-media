@@ -1,0 +1,669 @@
+[
+ {
+  "kind": "figure",
+  "n": 1,
+  "page": 27,
+  "file": "fig_01.jpg",
+  "w": 550,
+  "h": 353,
+  "bytes": 43753
+ },
+ {
+  "kind": "figure",
+  "n": 2,
+  "page": 28,
+  "file": "fig_02.jpg",
+  "w": 243,
+  "h": 349,
+  "bytes": 17581
+ },
+ {
+  "kind": "figure",
+  "n": 3,
+  "page": 35,
+  "file": "fig_03.jpg",
+  "w": 550,
+  "h": 353,
+  "bytes": 38080
+ },
+ {
+  "kind": "figure",
+  "n": 4,
+  "page": 46,
+  "file": "fig_04.jpg",
+  "w": 243,
+  "h": 349,
+  "bytes": 15405
+ },
+ {
+  "kind": "figure",
+  "n": 5,
+  "page": 57,
+  "file": "fig_05.jpg",
+  "w": 352,
+  "h": 518,
+  "bytes": 26113
+ },
+ {
+  "kind": "figure",
+  "n": 6,
+  "page": 58,
+  "file": "fig_06.jpg",
+  "w": 352,
+  "h": 546,
+  "bytes": 28651
+ },
+ {
+  "kind": "figure",
+  "n": 7,
+  "page": 64,
+  "file": "fig_07.jpg",
+  "w": 242,
+  "h": 349,
+  "bytes": 14542
+ },
+ {
+  "kind": "figure",
+  "n": 8,
+  "page": 65,
+  "file": "fig_08.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 16496
+ },
+ {
+  "kind": "figure",
+  "n": 9,
+  "page": 65,
+  "file": "fig_09.jpg",
+  "w": 242,
+  "h": 349,
+  "bytes": 15938
+ },
+ {
+  "kind": "figure",
+  "n": 10,
+  "page": 76,
+  "file": "fig_10.jpg",
+  "w": 352,
+  "h": 550,
+  "bytes": 40365
+ },
+ {
+  "kind": "figure",
+  "n": 11,
+  "page": 86,
+  "file": "fig_11.jpg",
+  "w": 242,
+  "h": 349,
+  "bytes": 12842
+ },
+ {
+  "kind": "figure",
+  "n": 12,
+  "page": 87,
+  "file": "fig_12.jpg",
+  "w": 242,
+  "h": 349,
+  "bytes": 17423
+ },
+ {
+  "kind": "figure",
+  "n": 13,
+  "page": 88,
+  "file": "fig_13.jpg",
+  "w": 242,
+  "h": 349,
+  "bytes": 15547
+ },
+ {
+  "kind": "figure",
+  "n": 14,
+  "page": 89,
+  "file": "fig_14.jpg",
+  "w": 550,
+  "h": 353,
+  "bytes": 26021
+ },
+ {
+  "kind": "figure",
+  "n": 15,
+  "page": 95,
+  "file": "fig_15.jpg",
+  "w": 242,
+  "h": 349,
+  "bytes": 15197
+ },
+ {
+  "kind": "figure",
+  "n": 16,
+  "page": 96,
+  "file": "fig_16.jpg",
+  "w": 242,
+  "h": 349,
+  "bytes": 14328
+ },
+ {
+  "kind": "figure",
+  "n": 17,
+  "page": 96,
+  "file": "fig_17.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 13682
+ },
+ {
+  "kind": "figure",
+  "n": 18,
+  "page": 97,
+  "file": "fig_18.jpg",
+  "w": 352,
+  "h": 243,
+  "bytes": 13145
+ },
+ {
+  "kind": "figure",
+  "n": 19,
+  "page": 98,
+  "file": "fig_19.jpg",
+  "w": 242,
+  "h": 349,
+  "bytes": 18477
+ },
+ {
+  "kind": "figure",
+  "n": 20,
+  "page": 98,
+  "file": "fig_20.jpg",
+  "w": 243,
+  "h": 349,
+  "bytes": 19301
+ },
+ {
+  "kind": "figure",
+  "n": 21,
+  "page": 99,
+  "file": "fig_21.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 14185
+ },
+ {
+  "kind": "figure",
+  "n": 22,
+  "page": 99,
+  "file": "fig_22.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 14189
+ },
+ {
+  "kind": "figure",
+  "n": 23,
+  "page": 100,
+  "file": "fig_23.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 17024
+ },
+ {
+  "kind": "figure",
+  "n": 24,
+  "page": 100,
+  "file": "fig_24.jpg",
+  "w": 353,
+  "h": 258,
+  "bytes": 16167
+ },
+ {
+  "kind": "figure",
+  "n": 25,
+  "page": 100,
+  "file": "fig_25.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 15594
+ },
+ {
+  "kind": "figure",
+  "n": 26,
+  "page": 101,
+  "file": "fig_26.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 15868
+ },
+ {
+  "kind": "figure",
+  "n": 27,
+  "page": 101,
+  "file": "fig_27.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 18022
+ },
+ {
+  "kind": "figure",
+  "n": 28,
+  "page": 102,
+  "file": "fig_28.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 17031
+ },
+ {
+  "kind": "figure",
+  "n": 29,
+  "page": 102,
+  "file": "fig_29.jpg",
+  "w": 354,
+  "h": 243,
+  "bytes": 14464
+ },
+ {
+  "kind": "figure",
+  "n": 30,
+  "page": 103,
+  "file": "fig_30.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 12553
+ },
+ {
+  "kind": "figure",
+  "n": 31,
+  "page": 103,
+  "file": "fig_31.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 14451
+ },
+ {
+  "kind": "figure",
+  "n": 32,
+  "page": 104,
+  "file": "fig_32.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 13259
+ },
+ {
+  "kind": "figure",
+  "n": 33,
+  "page": 104,
+  "file": "fig_33.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 13339
+ },
+ {
+  "kind": "figure",
+  "n": 34,
+  "page": 105,
+  "file": "fig_34.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 13149
+ },
+ {
+  "kind": "figure",
+  "n": 35,
+  "page": 105,
+  "file": "fig_35.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 13465
+ },
+ {
+  "kind": "figure",
+  "n": 36,
+  "page": 105,
+  "file": "fig_36.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 13684
+ },
+ {
+  "kind": "figure",
+  "n": 37,
+  "page": 106,
+  "file": "fig_37.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 13525
+ },
+ {
+  "kind": "figure",
+  "n": 38,
+  "page": 106,
+  "file": "fig_38.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 15653
+ },
+ {
+  "kind": "figure",
+  "n": 39,
+  "page": 107,
+  "file": "fig_39.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 13961
+ },
+ {
+  "kind": "figure",
+  "n": 40,
+  "page": 107,
+  "file": "fig_40.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 13840
+ },
+ {
+  "kind": "figure",
+  "n": 41,
+  "page": 108,
+  "file": "fig_41.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 13379
+ },
+ {
+  "kind": "figure",
+  "n": 42,
+  "page": 108,
+  "file": "fig_42.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 13874
+ },
+ {
+  "kind": "figure",
+  "n": 43,
+  "page": 109,
+  "file": "fig_43.jpg",
+  "w": 354,
+  "h": 243,
+  "bytes": 12704
+ },
+ {
+  "kind": "figure",
+  "n": 44,
+  "page": 109,
+  "file": "fig_44.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 12250
+ },
+ {
+  "kind": "figure",
+  "n": 45,
+  "page": 109,
+  "file": "fig_45.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 14862
+ },
+ {
+  "kind": "figure",
+  "n": 46,
+  "page": 110,
+  "file": "fig_46.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 13961
+ },
+ {
+  "kind": "figure",
+  "n": 47,
+  "page": 110,
+  "file": "fig_47.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 14559
+ },
+ {
+  "kind": "figure",
+  "n": 48,
+  "page": 111,
+  "file": "fig_48.jpg",
+  "w": 242,
+  "h": 349,
+  "bytes": 16718
+ },
+ {
+  "kind": "figure",
+  "n": 49,
+  "page": 112,
+  "file": "fig_49.jpg",
+  "w": 244,
+  "h": 349,
+  "bytes": 14444
+ },
+ {
+  "kind": "figure",
+  "n": 50,
+  "page": 112,
+  "file": "fig_50.jpg",
+  "w": 353,
+  "h": 244,
+  "bytes": 15353
+ },
+ {
+  "kind": "figure",
+  "n": 51,
+  "page": 115,
+  "file": "fig_51.jpg",
+  "w": 353,
+  "h": 243,
+  "bytes": 9192
+ },
+ {
+  "kind": "figure",
+  "n": 52,
+  "page": 118,
+  "file": "fig_52.jpg",
+  "w": 550,
+  "h": 353,
+  "bytes": 33333
+ },
+ {
+  "kind": "figure",
+  "n": 53,
+  "page": 119,
+  "file": "fig_53.jpg",
+  "w": 550,
+  "h": 188,
+  "bytes": 20427
+ },
+ {
+  "kind": "figure",
+  "n": 54,
+  "page": 119,
+  "file": "fig_54.jpg",
+  "w": 550,
+  "h": 189,
+  "bytes": 15569
+ },
+ {
+  "kind": "figure",
+  "n": 55,
+  "page": 119,
+  "file": "fig_55.jpg",
+  "w": 550,
+  "h": 353,
+  "bytes": 28713
+ },
+ {
+  "kind": "figure",
+  "n": 56,
+  "page": 120,
+  "file": "fig_56.jpg",
+  "w": 550,
+  "h": 353,
+  "bytes": 31744
+ },
+ {
+  "kind": "figure",
+  "n": 57,
+  "page": 120,
+  "file": "fig_57.jpg",
+  "w": 550,
+  "h": 298,
+  "bytes": 29962
+ },
+ {
+  "kind": "figure",
+  "n": 58,
+  "page": 121,
+  "file": "fig_58.jpg",
+  "w": 550,
+  "h": 298,
+  "bytes": 22039
+ },
+ {
+  "kind": "figure",
+  "n": 59,
+  "page": 122,
+  "file": "fig_59.jpg",
+  "w": 550,
+  "h": 353,
+  "bytes": 25887
+ },
+ {
+  "kind": "figure",
+  "n": 60,
+  "page": 123,
+  "file": "fig_60.jpg",
+  "w": 353,
+  "h": 550,
+  "bytes": 31921
+ },
+ {
+  "kind": "figure",
+  "n": 61,
+  "page": 124,
+  "file": "fig_61.jpg",
+  "w": 550,
+  "h": 333,
+  "bytes": 32252
+ },
+ {
+  "kind": "calligraphy",
+  "n": 1,
+  "term": "SHIN-SHIN-TOITSU",
+  "page": 3,
+  "label": "Thần-Thần-Đồng-Điều",
+  "file": "calli_01.jpg",
+  "w": 465,
+  "h": 424,
+  "bytes": 42409
+ },
+ {
+  "kind": "calligraphy",
+  "n": 2,
+  "term": "UCHU-REI",
+  "page": 15,
+  "label": "Vũ Trụ Tâm",
+  "file": "calli_02.jpg",
+  "w": 324,
+  "h": 495,
+  "bytes": 34291
+ },
+ {
+  "kind": "calligraphy",
+  "n": 3,
+  "term": "NO",
+  "page": 23,
+  "label": "Tài năng và năng lực",
+  "file": "calli_03.jpg",
+  "w": 422,
+  "h": 348,
+  "bytes": 38810
+ },
+ {
+  "kind": "calligraphy",
+  "n": 4,
+  "term": "SHIN, KOKORO",
+  "page": 31,
+  "label": "Tâm",
+  "file": "calli_04.jpg",
+  "w": 535,
+  "h": 338,
+  "bytes": 31220
+ },
+ {
+  "kind": "calligraphy",
+  "n": 5,
+  "term": "SHIN, MI",
+  "page": 50,
+  "label": "Thân",
+  "file": "calli_05.jpg",
+  "w": 428,
+  "h": 452,
+  "bytes": 39791
+ },
+ {
+  "kind": "calligraphy",
+  "n": 6,
+  "term": "SHINNYO",
+  "page": 63,
+  "label": "Thực tại tuyệt đối",
+  "file": "calli_06.jpg",
+  "w": 395,
+  "h": 520,
+  "bytes": 37414
+ },
+ {
+  "kind": "calligraphy",
+  "n": 7,
+  "term": "ZEN",
+  "page": 74,
+  "label": "Thiện tính bẩm sinh",
+  "file": "calli_07.jpg",
+  "w": 428,
+  "h": 530,
+  "bytes": 50307
+ },
+ {
+  "kind": "calligraphy",
+  "n": 8,
+  "term": "HARA",
+  "page": 84,
+  "label": "Bụng",
+  "file": "calli_08.jpg",
+  "w": 428,
+  "h": 492,
+  "bytes": 61142
+ },
+ {
+  "kind": "calligraphy",
+  "n": 9,
+  "term": "SHOMETSU",
+  "page": 93,
+  "label": "Sống/chết, xuất hiện/biến mất",
+  "file": "calli_09.jpg",
+  "w": 306,
+  "h": 530,
+  "bytes": 36871
+ },
+ {
+  "kind": "calligraphy",
+  "n": 10,
+  "term": "YASASHII",
+  "page": 116,
+  "label": "Sự dịu dàng nhân từ",
+  "file": "calli_10.jpg",
+  "w": 428,
+  "h": 460,
+  "bytes": 37002
+ },
+ {
+  "kind": "portrait",
+  "page": 7,
+  "file": "portrait_nakamura_tempu.jpg",
+  "w": 331,
+  "h": 463,
+  "bytes": 86005
+ }
+]
